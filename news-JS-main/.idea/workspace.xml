@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="42c69baf-075c-4ffe-b84c-1e9aee297ede" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/view/news/news.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/news/news.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/types/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/types/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/view/sources/sources.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/view/sources/sources.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +23,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../FRONT-END_stage1_2/anniyaa-JSFE2023Q1/shelter" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -47,7 +46,8 @@
       <workItem from="1680212832203" duration="90000" />
       <workItem from="1680254043967" duration="11225000" />
       <workItem from="1680346403654" duration="12304000" />
-      <workItem from="1680433564226" duration="9542000" />
+      <workItem from="1680433564226" duration="12930000" />
+      <workItem from="1680631525039" duration="35000" />
     </task>
     <servers />
   </component>

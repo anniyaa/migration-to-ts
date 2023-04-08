@@ -11,16 +11,12 @@ export interface ItemsList {
     };
 }
 
-export interface ArticlesList {
+export interface SourcesList {
     id: string;
     name: string;
-    description: string;
-    url: string;
-    category: string;
-    language: string;
-    country: string;
 }
-export interface SourcesList {
+
+export interface ArticlesList {
     id: string;
     name: string;
     description: string;
